@@ -15,5 +15,5 @@ Usage:
 Notes:
 + You shouldn't cook the kit
 + You shouldn't copy anything from the kit to your mod folder
-+ Make sure to add the Magichau mod as a dependency of your mod in Modio
++ Add the Magichau mod as a dependency of your mod in Modio
 + Make sure both Magichau's Mod-ID and your mod's Mod-ID are added to game.ini
